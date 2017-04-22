@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm13.aspx.cs" Inherits="Linq.WebForm13" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm17.aspx.cs" Inherits="Linq.WebForm17" %>
 
 <!DOCTYPE html>
 
@@ -10,7 +10,7 @@
     <form id="form1" runat="server">
         <div>
             <br />
-            Part 13 Implement paging using skip and take operators
+            Part 17 AsEnumerable and AsQueryable in LINQ
         </div>
     </form>
 </body>

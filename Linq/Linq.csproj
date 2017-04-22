@@ -72,6 +72,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="default.aspx" />
     <Content Include="packages.config" />
     <Content Include="Models\Sample.dbml">
       <Generator>MSLinqToSQLGenerator</Generator>
@@ -83,6 +84,10 @@
     <Content Include="WebForm11.aspx" />
     <Content Include="WebForm12.aspx" />
     <Content Include="WebForm13.aspx" />
+    <Content Include="WebForm14.aspx" />
+    <Content Include="WebForm15.aspx" />
+    <Content Include="WebForm16.aspx" />
+    <Content Include="WebForm17.aspx" />
     <Content Include="WebForm2.aspx" />
     <Content Include="WebForm3.aspx" />
     <Content Include="WebForm4.aspx" />
@@ -106,6 +111,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -150,6 +162,34 @@
     </Compile>
     <Compile Include="WebForm13.aspx.designer.cs">
       <DependentUpon>WebForm13.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm14.aspx.cs">
+      <DependentUpon>WebForm14.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm14.aspx.designer.cs">
+      <DependentUpon>WebForm14.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm15.aspx.cs">
+      <DependentUpon>WebForm15.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm15.aspx.designer.cs">
+      <DependentUpon>WebForm15.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm16.aspx.cs">
+      <DependentUpon>WebForm16.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm16.aspx.designer.cs">
+      <DependentUpon>WebForm16.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm17.aspx.cs">
+      <DependentUpon>WebForm17.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm17.aspx.designer.cs">
+      <DependentUpon>WebForm17.aspx</DependentUpon>
     </Compile>
     <Compile Include="WebForm2.aspx.cs">
       <DependentUpon>WebForm2.aspx</DependentUpon>
