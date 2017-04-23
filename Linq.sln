@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26403.3
+VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "Linq\Linq.csproj", "{C5256890-6631-446A-BE01-5867ED1CBD0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToXML", "LinqToXML\LinqToXML.csproj", "{EBD5D1DC-44C3-4C35-9C05-6204B2A8078C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C5256890-6631-446A-BE01-5867ED1CBD0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5256890-6631-446A-BE01-5867ED1CBD0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5256890-6631-446A-BE01-5867ED1CBD0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBD5D1DC-44C3-4C35-9C05-6204B2A8078C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD5D1DC-44C3-4C35-9C05-6204B2A8078C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD5D1DC-44C3-4C35-9C05-6204B2A8078C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD5D1DC-44C3-4C35-9C05-6204B2A8078C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
