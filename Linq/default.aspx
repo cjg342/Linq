@@ -28,6 +28,23 @@
         <asp:HyperLink ID="HyperLink16" runat="server" NavigateUrl="~/WebForm16.aspx">Part 16 Cast and OfType operators in LINQ</asp:HyperLink> <br /> <br />
         <asp:HyperLink ID="HyperLink17" runat="server" NavigateUrl="~/WebForm17.aspx">Part 17 AsEnumerable and AsQueryable in LINQ</asp:HyperLink> <br /> <br />
 
+        <asp:HyperLink ID="HyperLink18" runat="server" NavigateUrl="~/WebForm18.aspx">Part 18 GroupBy in LINQ</asp:HyperLink> <br /> <br />
+        <asp:HyperLink ID="HyperLink19" runat="server" NavigateUrl="~/WebForm19.aspx">Part 19 Group by multiple keys in linq</asp:HyperLink> <br /> <br />
+        <asp:HyperLink ID="HyperLink20" runat="server" NavigateUrl="~/WebForm20.aspx">Part 20 Element Operators in LINQ</asp:HyperLink> <br /> <br />
+        <asp:HyperLink ID="HyperLink21" runat="server" NavigateUrl="~/WebForm21.aspx">Part 21 Group Join in LINQ</asp:HyperLink> <br /> <br />
+        <asp:HyperLink ID="HyperLink22" runat="server" NavigateUrl="~/WebForm22.aspx">Part 22 Inner Join in LINQ</asp:HyperLink> <br /> <br />
+        <asp:HyperLink ID="HyperLink23" runat="server" NavigateUrl="~/WebForm23.aspx">Part 23 - Difference between group join and inner join in linq</asp:HyperLink> <br /> <br />
+        <asp:HyperLink ID="HyperLink24" runat="server" NavigateUrl="~/WebForm24.aspx">Part 24 Left Outer Join in LINQ</asp:HyperLink> <br /> <br />
+        <asp:HyperLink ID="HyperLink25" runat="server" NavigateUrl="~/WebForm25.aspx">Part 25 Cross Join in LINQ</asp:HyperLink> <br /> <br />
+        <asp:HyperLink ID="HyperLink26" runat="server" NavigateUrl="~/WebForm26.aspx">Part 26 Set operators in LINQ</asp:HyperLink> <br /> <br />
+        <asp:HyperLink ID="HyperLink27" runat="server" NavigateUrl="~/WebForm27.aspx">Part 27 Union, Intersect and Except operators in LINQ</asp:HyperLink> <br /> <br />
+        <asp:HyperLink ID="HyperLink28" runat="server" NavigateUrl="~/WebForm28.aspx">Part 28 Generation Operators in LINQ</asp:HyperLink> <br /> <br />
+        <asp:HyperLink ID="HyperLink29" runat="server" NavigateUrl="~/WebForm29.aspx">Part 29 Concat operator in LINQ</asp:HyperLink> <br /> <br />
+        <asp:HyperLink ID="HyperLink30" runat="server" NavigateUrl="~/WebForm30.aspx">Part 30 SequenceEqual Operator in LINQ</asp:HyperLink> <br /> <br />
+        <asp:HyperLink ID="HyperLink31" runat="server" NavigateUrl="~/WebForm31.aspx">Part 31 Quantifiers in LINQ</asp:HyperLink> <br /> <br />
+        <asp:HyperLink ID="HyperLink32" runat="server" NavigateUrl="~/WebForm32.aspx">Part 32 LinqPad Tutorial</asp:HyperLink> <br /> <br />
+
+
 
 
 
